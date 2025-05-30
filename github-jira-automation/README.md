@@ -42,7 +42,3 @@ https://<your-ngrok-url>/webhook
 ## 🛡️ Security
 
 Keep your `.env` file private and never commit it to version control.
-
-## 📝 License
-
-MIT
